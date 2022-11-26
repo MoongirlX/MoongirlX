@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Leticia.
+- 👀 I’m interested in boxing, skateboarding and frontend development.
+- 🌱 I’m currently learning React.
